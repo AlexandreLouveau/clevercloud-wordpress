@@ -44,8 +44,7 @@
     "wpackagist-plugin/tinymce-advanced": "5.6.0",
     "wpackagist-plugin/taxonomy-terms-order": "1.6.1",
     "wpackagist-plugin/classic-editor": "1.6.2",
-    "wpackagist-plugin/dashboard-widgets-suite": "3.1",
-    "wpackagist-plugin/qtranslate-x": "3.4.6.8"
+    "wpackagist-plugin/dashboard-widgets-suite": "3.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.4.2",
