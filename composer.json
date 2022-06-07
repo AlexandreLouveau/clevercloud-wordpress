@@ -40,7 +40,7 @@
     "humanmade/s3-uploads": "~2.2",
     "wpackagist-plugin/mailgun": "1.7.1",
     "wpackagist-theme/jupiterx-lite": "2.0.9",
-    "wpackagist-theme/jupiterx-core": "2.0.9",
+    "wpackagist-plugin/jupiterx-core": "2.0.9",
     "wpackagist-plugin/adminimize": "1.11.7",
     "wpackagist-plugin/tinymce-advanced": "5.6.0",
     "wpackagist-plugin/taxonomy-terms-order": "1.6.1",
